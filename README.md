@@ -265,7 +265,7 @@ Hallucination Risk   : 0.0000
 
 ### Evaluation Report
 
-![Evalguard Report](Outputs/evalguard_report.png)
+![Evaluation Report](Outputs/evaluation_report.png)
 
 ### Claim-Level Analysis
 
