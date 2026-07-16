@@ -1,10 +1,9 @@
 # EvalGuard
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.13-red)
-![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow)
-![License](https://img.shields.io/badge/License-MIT-green)
-
+[![Python](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.13-red)](https://pytorch.org/)
+[![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow)](https://huggingface.co/docs/transformers)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 EvalGuard is a modular Python framework for evaluating AI-generated responses across multiple quality dimensions, including relevance, instruction compliance, completeness, groundedness, and hallucination risk.
 
 The framework provides a structured and extensible approach for evaluating AI-generated responses by combining multiple complementary evaluation metrics into a unified assessment.
