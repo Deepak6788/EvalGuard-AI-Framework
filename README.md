@@ -183,6 +183,13 @@ EvalGuard/
 
 ## Installation
 
+Clone the repository:
+
+```bash
+git clone https://github.com/Deepak6788/EvalGuard.git
+cd EvalGuard
+```
+
 Install the required dependencies:
 
 ```bash
