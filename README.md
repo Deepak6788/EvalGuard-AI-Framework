@@ -261,6 +261,27 @@ Hallucination Risk   : 0.0000
 
 ---
 
+---
+
+## Sample Outputs
+
+### Evaluation Report
+
+## Sample Outputs
+
+### Evaluation Report
+
+![Evalguard Report](Outputs/evalguard_report.png)
+
+### Claim-Level Analysis
+
+![Claim-Level Analysis](Outputs/claim_level_analysis.png)
+
+### Engine Test
+
+![Engine Test](Outputs/engine_test.png)
+---
+
 ## Testing
 
 The project includes dedicated test modules for each evaluation component.
