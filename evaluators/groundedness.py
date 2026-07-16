@@ -53,11 +53,10 @@ class NLIAnalyzer:
             dim=-1,
         )
 
-        scores = {
-            "ENTAILMENT": probabilities[0].item(),
-            "NEUTRAL": probabilities[1].item(),
-            "CONTRADICTION": probabilities[2].item(),
-        }
+        scores = {}
+
+        for index, label in self.model.config.id2label.items():
+            scores[label.upper()] = probabilities[index].item()
 
         predicted_label = max(
             scores,
